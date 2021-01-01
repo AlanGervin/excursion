@@ -1,5 +1,17 @@
+#title {
+    font-family: Verdana;
+    font-size:50px;
+    color:white;
+    text-align:center;
+}
+
+#comingSoon, a{
+    text-align: center;
+}
+
 body {
     background-color: black;
+    font-family: Verdana
 }
 
 video {
@@ -7,7 +19,7 @@ video {
 }
 
 header {
-    align:center;
+    text-align:center;
 }
 
 main {
@@ -16,8 +28,22 @@ main {
 
 h1 {
     text-align: center;
+    color:white;
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
 }
 
 a {
     text-align: center;
+    color:aquamarine;
+    font-size: 16px;
 }
+p {
+    text-align: center;
+    font-family: Verdana;
+    font-size:21px;
+    color:grey;
+}
+
+
