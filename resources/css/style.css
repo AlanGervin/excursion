@@ -44,4 +44,6 @@ p {
     color:grey;
 }
 
-
+.footer p{
+    text-align:right;
+}
