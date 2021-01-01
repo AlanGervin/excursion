@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+video {
+    margin:auto;
+}
+
+header {
+    align:center;
+}
+
+main {
+    margin:auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    text-align: center;
+}
